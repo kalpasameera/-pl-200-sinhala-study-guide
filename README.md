@@ -4,7 +4,8 @@ A detailed Sinhala-language study guide for **Microsoft Power Platform Functiona
 
 ## Download
 
-- [Download the complete DOCX study guide](./PL-200_Complete_Sinhala_Study_Guide_2026.docx)
+- [Download the PDF study guide](./PL-200_Complete_Sinhala_Study_Guide_2026.pdf)
+- [Download the editable DOCX study guide](./PL-200_Complete_Sinhala_Study_Guide_2026.docx)
 
 ## Coverage
 
@@ -28,7 +29,8 @@ The curriculum and official-source coverage were verified on **2026-08-17**.
 ## File integrity
 
 ```text
-SHA-256: 59ac22adfc548eacb9bde9013bf651c8a0b328e65cd76b1b49ddc36b0cba7448
+DOCX SHA-256: 59ac22adfc548eacb9bde9013bf651c8a0b328e65cd76b1b49ddc36b0cba7448
+PDF  SHA-256: b32cfca04f7f05316fc64cc81dc2c88ae8bcb4fd64a580063a6e4402572273ec
 ```
 
 ## Disclaimer
